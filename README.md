@@ -2,6 +2,8 @@
 
 ![demo](https://github.com/ritzblogs/react-native-flatlist/blob/master/flatlist.png)  
 
+Find detailed description - https://abodeofmystories.blogspot.com/2020/05/flatlist-in-react-native.html
+
 ## Install at local
 Open Terminal, then type command:  
 > git clone  https://github.com/ritzblogs/react-native-flatlist.git
